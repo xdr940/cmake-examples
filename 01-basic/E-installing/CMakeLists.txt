@@ -51,3 +51,4 @@ install(DIRECTORY ${PROJECT_SOURCE_DIR}/include/
 # Config
 install (FILES cmake-examples.conf
     DESTINATION etc)
+message(${PROJECT_SOURCE_DIR})

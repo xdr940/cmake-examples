@@ -4,6 +4,7 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 
+
 #
 # Sublime Test
 #
@@ -61,4 +62,4 @@ install_manifest.txt
 /**/build.*
 
 .tags
-.vscode
+
